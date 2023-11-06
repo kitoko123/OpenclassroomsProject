@@ -1,1 +1,5 @@
+<<<<<<< HEAD
+juste un premier test
+=======
 juste un premier test!
+>>>>>>> cagnotte
